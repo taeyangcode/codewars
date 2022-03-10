@@ -1,0 +1,12 @@
+# Ignore: IDE related files
+/*
+
+# Ignore: MAC .DS_STORE
+**/.DS_STORE
+
+# .gitignore
+!.gitignore
+!README.md
+
+# .cpp files
+!**.cpp

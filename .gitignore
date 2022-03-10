@@ -1,13 +1,9 @@
 # Ignore: IDE related files
-/*
-/codewars
+*/
 
-# Ignore: MAC .DS_STORE
-**/.DS_STORE
-
-# .gitignore
+# !
 !.gitignore
 !README.md
 
 # .cpp files
-!/codewars/*.cpp
+!**.cpp

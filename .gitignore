@@ -1,5 +1,6 @@
 # Ignore: IDE related files
 /*
+/codewars
 
 # Ignore: MAC .DS_STORE
 **/.DS_STORE
@@ -8,8 +9,5 @@
 !.gitignore
 !README.md
 
-# Solution folder
-!*/codewars
-
 # .cpp files
-!**.cpp
+!/codewars/*.cpp

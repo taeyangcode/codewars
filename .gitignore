@@ -1,9 +1,11 @@
 # Ignore: IDE related files
-*/
+/*
 
 # !
 !.gitignore
 !README.md
 
 # .cpp files
-!**.cpp
+!codewars/
+codewars/*
+!codewars/*.cpp
